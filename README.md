@@ -1,4 +1,3 @@
-Perfect — I’ll give you a **professional, clean, and impressive README.md** that you can directly put in your GitHub repository. This will **boost your internship profile** and look serious & structured.
 # 🚀 Python Practice & AI/ML Journey
 
 ## 📌 About This Repository
